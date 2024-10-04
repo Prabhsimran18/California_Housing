@@ -75,3 +75,5 @@ prediction = model.predict(input_df_sc)
 
 # Display prediction
 st.write(f"Predicted House Price: ${prediction[0]*100000:.2f}")
+
+#Chenge made to check weather it updates
